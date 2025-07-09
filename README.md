@@ -9,7 +9,7 @@ A SwiftUI-based iOS application that fetches and displays the top stories from H
 - Fetches front page news from Hacker News
 - Uses Swift’s `URLSession` for networking
 - JSON parsing with `Codable` and `JSONDecoder`
-- MVVM-like architecture with `ObservableObject` and `@Published`
+- Conforms to  MVC architecture 
 - Navigates between a list of posts and detailed views using SwiftUI
 
 ## 🛠️ Technologies
