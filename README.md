@@ -1,6 +1,6 @@
 # 📰 HackerNews iOS App
 
-A SwiftUI-based iOS application that fetches and displays the top stories from Hacker News using the Algolia Hacker News API.
+A UIKit-based iOS application that fetches and displays the top stories from Hacker News using the Algolia Hacker News API.
 
 ## Preview 
 ![App Screenshot](demo.png) 
